@@ -1,0 +1,9 @@
+num=int(input ("Enter frist Number"))
+num2=int(input ("Enter second Number"))
+if(num1>=num2):
+  if(num1==num2):
+     Print("Both numbers are equal.")
+else:
+    Print ("Frist number is bigger than the second number.")
+else:
+    Print("Second number is bigger than the Frist number.")
