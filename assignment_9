@@ -1,0 +1,7 @@
+A=int(input ("Enter the value of A:"))
+  if A>0:
+    Print("positive number")
+     elif A==0:
+    Print ("Zero")
+     else:
+    Print("Negative number")
