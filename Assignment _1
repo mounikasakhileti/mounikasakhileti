@@ -1,0 +1,17 @@
+import math
+import os
+import random
+import re
+import sys
+
+
+
+if_name_=='_main_':
+    n=int(raw_input().strip ())
+
+if n%2==1:
+   Print"Weird"
+   elif n%2==0 and 2<=n <=5:
+         Print"Weird"
+else:
+    Print "Not Weird"
